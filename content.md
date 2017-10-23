@@ -30,85 +30,86 @@
 
 ## [Problem 3]:
  * English:
-		<p>The prime factors of 13195 are 5, 7, 13 and 29.
+		<p>
+		The prime factors of 13195 are 5, 7, 13 and 29.
 		What is the largest prime factor of the number 600851475143 ?	
-</p>
+		</p>
 
  * Vietnamese:
-	<p>Các phần tử là số nguyên tố của 13195 là 5, 7, 13 and 29.
-	
-		Hãy tìm phần tử lớn nhất là số nguyên tố của 600851475143 ?
-</p>
+	<p>
+	Các phần tử là số nguyên tố của 13195 là 5, 7, 13 and 29.
+	Hãy tìm phần tử lớn nhất là số nguyên tố của 600851475143 ?
+	</p>
 
 ## [Problem 4]:
  * English:
-		<p>A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
-
+		<p>
+			A palindromic number reads the same both ways. The largest palindrome made 
+		from the product of two 2-digit numbers is 9009 = 91 × 99.
 		Find the largest palindrome made from the product of two 3-digit numbers.
-	</p>
+	  </p>
  * Vietnamese:
-			<p>Một số palindrome là số đảo ngược lại bằng số ban đầu. Số palindrome lớn nhất được tạo bởi tích
+		<p>
+			Một số palindrome là số đảo ngược lại bằng số ban đầu. Số palindrome lớn nhất được tạo bởi tích
 		của 2 số có 2 chữ số là 9009 = 91 * 99.
-		
-			Tìm số palindrome lớn nhất được tạo bởi tổng của 2 số có 3 chữ số.
-	</p>
+		Tìm số palindrome lớn nhất được tạo bởi tổng của 2 số có 3 chữ số.
+		</p>
 
 ## [Problem 5]:
  * English:
-		<p>2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-
-		What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
-	</p>
+		<p>
+			2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+			What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+		</p>
 
  * Vietnamese:
-		<p>2520 là số nhỏ nhất chia hết cho tất cả các số từ 1 đến 10.
-
+		<p>
+		2520 là số nhỏ nhất chia hết cho tất cả các số từ 1 đến 10.
 		Tìm số nhỏ nhất chia hết cho tất cả các số từ 1 đến 20?
-	</p>
+		</p>
 
 
 ## [Problem 6]:
  * English:
-		<p>The sum of the squares of the first ten natural numbers is,
-
+		<p>
+		The sum of the squares of the first ten natural numbers is,
 		12 + 22 + ... + 102 = 385
 		The square of the sum of the first ten natural numbers is,
-
 		(1 + 2 + ... + 10)2 = 552 = 3025
 		Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640.
-
 		Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
-	</p>
+		</p>
 
  * Vietnamese:
-		<p>Tổng của bình phương của 10 số tự nhiên đầu tiên là,
+		<p>
+		Tổng của bình phương của 10 số tự nhiên đầu tiên là,
 										12 + 22 + ... + 102 = 385
-		
 		Bình phương của tổng của 10 số tự nhiên là,
 										(1 + 2 + ... + 10)2 = 552 = 3025
-		
-		Vì thế hiệu của tổng của bình phương của 10 số tự nhiên đầu tiên và bình phương của tổng của 10 số tự nhiên là 3025 - 385 = 2640.
-
+		Vì thế hiệu của tổng của bình phương của 10 số tự nhiên đầu tiên và bình phương của tổng
+		của 10 số tự nhiên là 3025 - 385 = 2640.
 		Hãy tìm hiệu của tổng của bình phương 1000 số tự nhiên đầu tiên và bình phương của tổng.
-	</p>
+		</p>
 
 ## [Problem 7]:
  * English:
-		<p>By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
-
+		<p>
+		By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see
+		that the 6th prime is 13.
 		What is the 10 001st prime number?
-	</p>
+	  </p>
 
  * Vietnamese:
-		<p>Bằng cách liệt kê sáu số nguyên tố đầu tiên: 2, 3, 5, 7, 11 và 13, chúng ta có thể thấy số nguyên 	tố thứ 6 là 13.
-
+		<p>
+		Bằng cách liệt kê sáu số nguyên tố đầu tiên: 2, 3, 5, 7, 11 và 13, chúng ta có thể thấy số nguyên 	tố thứ 6 là 13.
 		Tìm số nguyên tố thứ 10 001?
-	</p>
+		</p>
 
 ## [Problem 8]:
  * English:
-		<p>The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.
-
+		<p>
+		The four adjacent digits in the 1000-digit number that have the greatest product 
+		are 9 × 9 × 8 × 9 = 5832.
 												73167176531330624919225119674426574742355349194934
 												96983520312774506326239578318016984801869478851843
 												85861560789112949495459501737958331952853208805511
@@ -129,13 +130,13 @@
 												84580156166097919133875499200524063689912560717606
 												05886116467109405077541002256983155200055935729725
 												71636269561882670428252483600823257530420752963450
-
-		Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
-	</p>
+		Find the thirteen adjacent digits in the 1000-digit number that have the greatest
+		product. What is the value of this product?
+		</p>
 
  * Vietnamese:
-		<p>Số có 4 chữ số nằm trong số có 1000 chữ số mà có tích lớn nhất là 9 * 9 * 8 * 9 = 5832.
-
+		<p>
+		Số có 4 chữ số nằm trong số có 1000 chữ số mà có tích lớn nhất là 9 * 9 * 8 * 9 = 5832.
 												73167176531330624919225119674426574742355349194934
 												96983520312774506326239578318016984801869478851843
 												85861560789112949495459501737958331952853208805511
@@ -156,48 +157,42 @@
 												84580156166097919133875499200524063689912560717606
 												05886116467109405077541002256983155200055935729725
 												71636269561882670428252483600823257530420752963450
-
 		Tìm số có 13 chữ số nằm trong số có 1000 chữ số trên mà có tích lớn nhất?
-	</p>
+		</p>
 
 ## [Problem 9]:
  * English:
-		<p>A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
-
+		<p>
+		A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
 		a ^ 2 + b ^ 2 = c ^ 2
 		For example, 3 ^ 2 + 4 ^ 2 = 9 + 16 = 25 = 5 ^ 2.
-
 		There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 		Find the product abc.
-	</p>
+		</p>
 
  * Vietnamese:
 		<p>Bộ ba của định lí Pytago là tập hợp của 3 số tự nhiên, a < b < c, mà,
-
 		a	^ 2 + b ^ 2 = c ^ 2
 		Ví dụ, 3 ^ 2 + 4 ^ 2 = 9 + 16 = 25 = 5 ^ 2.
-
 		Chỉ tồn tại duy nhất một bộ ba của định lí Pytago mà a + b + c = 1000.
 		Tìm tích của abc.
-	</p>
+		</p>
 
 ## [Problem 10]:
  * English:
 		<p>The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
-
 		Find the sum of all the primes below two million.
-	</p>
+		</p>
 
  * Vietnamese:
 		<p>Tổng của các số nguyên tố dưới 10 là 2 + 3 + 5 + 7 = 17.
-
 		Tìm tổng của tất cả số nguyên tố dưới 2 triệu.
-	</p>
+		</p>
 
 ## [Problem 11]:
  * English:
-		<p>In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
-
+		<p>
+		In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
 						08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
 						49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00
 						81 49 31 73 55 79 14 29 93 71 40 67 53 88 30 03 49 13 36 65
@@ -218,15 +213,13 @@
 						20 69 36 41 72 30 23 88 34 62 99 69 82 67 59 85 74 04 36 16
 						20 73 35 29 78 31 90 01 74 31 49 71 48 86 81 16 23 57 05 54
 						01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48
-
 		The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
-
 		What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
-	</p>
+		</p>
 
  * Vietnamese:
-		<p>Trong hình vuông 20x20 dưới đây, 4 số nằm trên đường chéo đã được đánh dấu đỏ.
-
+		<p>
+		Trong hình vuông 20x20 dưới đây, 4 số nằm trên đường chéo đã được đánh dấu đỏ.
 						08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08
 						49 49 99 40 17 81 18 57 60 87 17 40 98 43 69 48 04 56 62 00
 						81 49 31 73 55 79 14 29 93 71 40 67 53 88 30 03 49 13 36 65
@@ -247,20 +240,16 @@
 						20 69 36 41 72 30 23 88 34 62 99 69 82 67 59 85 74 04 36 16
 						20 73 35 29 78 31 90 01 74 31 49 71 48 86 81 16 23 57 05 54
 						01 70 54 71 83 51 54 69 16 92 33 48 61 43 52 01 89 19 67 48
-
 		Tích của những số sau là 26 × 63 × 78 × 14 = 1788696.
-
 		Hãy tìm tổng lớn nhất của 4 số liền kề nằm trên 1 hướng (lên, xuống, trái, phải hoặc chéo) trong hình vuông 20x20 trên ?
-	</p>
+		</p>
 
 ## [Problem 12]:
  * English:
-		<p>The sequence of triangle numbers is generated by adding the natural numbers. So the 7th triangle number would be 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28. The first ten terms would be:
-
+		<p>
+		The sequence of triangle numbers is generated by adding the natural numbers. So the 7th triangle number would be 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28. The first ten terms would be:
 		1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...
-
 		Let us list the factors of the first seven triangle numbers:
-
 		1: 1
 		3: 1,3
 		6: 1,2,3,6
@@ -269,18 +258,15 @@
 		21: 1,3,7,21
 		28: 1,2,4,7,14,28
 		We can see that 28 is the first triangle number to have over five divisors.
-
 		What is the value of the first triangle number to have over five hundred divisors?
-	</p>
+		</p>
 
  * Vietnamese:
-		<p>Dãy số tam giác được tạo ra bằng cách thêm vào những số tự nhiên. Do đó số tam giác thứ 7 là 
+		<p>
+		Dãy số tam giác được tạo ra bằng cách thêm vào những số tự nhiên. Do đó số tam giác thứ 7 là 
 		1 + 2 + 3 + 4 + 5 + 6 + 7 = 28.
-		
 		Mười số hạng đầu tiên là: 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...
-
 		Chúng tôi đã liệt kê những phần tử của bảy số tam giác đầu tiên:
-
 		1: 1
 		3: 1,3
 		6: 1,2,3,6
@@ -289,14 +275,13 @@
 		21: 1,3,7,21
 		28: 1,2,4,7,14,28
 		Chúng tôi thấy 28 là số tam giác đầu tiên có hơn 5 phần tử.
-
 		Vậy giá trị của số tam giác đầu tiên có trên 500 phần tử là gì?
 		</p>
 
 ## [Problem 13]:
  * English:
-		<p>Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
-
+		<p>
+		Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
 						37107287533902102798797998220837590246510135740250
 						46376937677490009712648124896970078050417018260538
 						74324986199524741059474233309513058123726617309629
@@ -397,12 +382,11 @@
 						72107838435069186155435662884062257473692284509516
 						20849603980134001723930671666823555245252804609722
 						53503534226472524250874054075591789781264330331690
-	</p>
+		</p>
  
 	* Vietnamese:
 		<p>
 		Lấy 10 chữ số đầu tiên của tổng các chữ số của số có 1050 chữ số sau.
-
 						37107287533902102798797998220837590246510135740250
 						46376937677490009712648124896970078050417018260538
 						74324986199524741059474233309513058123726617309629
@@ -503,57 +487,42 @@
 						72107838435069186155435662884062257473692284509516
 						20849603980134001723930671666823555245252804609722
 						53503534226472524250874054075591789781264330331690
-	</p>
-
+		</p>
 
 ## [Problem 14]:
  * English:
-		<p>The following iterative sequence is defined for the set of positive integers:
-
+		<p>
+		The following iterative sequence is defined for the set of positive integers:
 				n → n/2 (n is even)
 				n → 3n + 1 (n is odd)
-
 		Using the rule above and starting with 13, we generate the following sequence:
-
 								13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
 		It can be seen that this sequence (starting at 13 and finishing at 1) contains 10 terms. Although it has not been proved yet (Collatz Problem), it is thought that all starting numbers finish at 1.
-
 		Which starting number, under one million, produces the longest chain?
-
 		NOTE: Once the chain starts the terms are allowed to go above one million.
-	</p>
+		</p>
 
  * Vietnamese:
-		<p>Quy trình lặp lại sau được định nghĩa các số nguyên dương:
-
+		<p>
+		Quy trình lặp lại sau được định nghĩa các số nguyên dương:
 				n → n/2 (n là chẵn)
 				n → 3n + 1 (n là lẻ)
-
 		Bằng cách sử dụng quy tắc trên và bắt đầu từ 13, chúng ta có dãy số sau:
-
 								13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
-		
 		Có thể thấy dãy số này(bắt đầu từ 13 và kết thúc ở 1) chứa 10 phần tử. Mặc dù chưa được chứng minh (là bài toán Collatz), người ta nghĩ rằng tất cả các số bắt đầu đều kết thúc ở 1
-
 		Số bắt đầu nào, dưới 1 triệu tạo ra chuỗi dài nhất?
-
 		CHÚ Ý: Một khi chuỗi bắt đầu các phần tử được phép vượt quá một triệu.
-	</p>
-
+		</p>
 ## [Problem 15]:
  * English:
 		<p>
 		Starting in the top left corner of a 2×2 grid, and only being able to move to the right and down, there are exactly 6 routes to the bottom right corner.
-
-
 		How many such routes are there through a 20×20 grid?
-	</p>
+		</p>
 
  * Vietnamese:
 		<p>
 		Bằng bắt đầu ở góc trái của hình vuông 2x2, và chỉ có thể di chuyển sang phải và đi xuống, có tất cả 6 cách đi để góc phải bên dưới.
-
-
 		Có bao nhiêu cách như vậy trong hình vuông 20x20?
-	</p>
+		</p>
 
