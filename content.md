@@ -48,13 +48,13 @@ Hãy tìm phần tử lớn nhất là số nguyên tố của 600851475143 ?
 ## [Problem 4]:
  * English:
 ```
-	A palindromic number reads the same both ways. The largest palindrome made 
+A palindromic number reads the same both ways. The largest palindrome made 
 from the product of two 2-digit numbers is 9009 = 91 × 99.
 Find the largest palindrome made from the product of two 3-digit numbers.
 ```
  * Vietnamese:
 ```
-	Một số palindrome là số đảo ngược lại bằng số ban đầu. Số palindrome lớn nhất được tạo bởi tích
+Một số palindrome là số đảo ngược lại bằng số ban đầu. Số palindrome lớn nhất được tạo bởi tích
 của 2 số có 2 chữ số là 9009 = 91 * 99.
 Tìm số palindrome lớn nhất được tạo bởi tổng của 2 số có 3 chữ số.
 ```
