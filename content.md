@@ -239,7 +239,8 @@ Bằng cách sử dụng quy tắc trên và bắt đầu từ 13, chúng ta có
 Có thể thấy dãy số này(bắt đầu từ 13 và kết thúc ở 1) chứa 10 phần tử. Mặc dù chưa được chứng minh (là bài toán Collatz), người ta nghĩ rằng tất cả các số bắt đầu đều kết thúc ở 1
 Số bắt đầu nào, dưới 1 triệu tạo ra chuỗi dài nhất?
 CHÚ Ý: Một khi chuỗi bắt đầu các phần tử được phép vượt quá một triệu.
-		```
+```
+
 ## [Problem 15]:
  * English:
 ```
