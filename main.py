@@ -1,5 +1,4 @@
 import webbrowser
-import sys
 import logging
 
 
