@@ -751,4 +751,54 @@ F<sub>12</sub> = 144</blockquote>
 <p>Đây là mười ba các số nguyên tố như thế dưới 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, và 97.</p>
 <p>Có bao nhiêu số nguyên tố xoay vòng dưới một triệu?</p>
 
-Có bao nhiêu số nguyên tố xoay vòng dưới một triệu
+## [Problem 36](https://projecteuler.net/problem=36):
+  * English:
+
+<p>The decimal number, 585 = 1001001001<sub>2</sub> (binary), is palindromic in both bases.</p>
+<p>Find the sum of all numbers, less than one million, which are palindromic in base 10 and base 2.</p>
+<p class="info">(Please note that the palindromic number, in either base, may not include leading zeros.)</p>
+
+  * Vietnamese:
+
+<p>Số thập phân, 585 = 1001001001<sub>2</sub> (nhị phân), là palindromic(là số đảo ngược lại bằng số ban đầu) ở cả hai.</p>
+<p>Tìm tổng của các số, nhỏ hơn một triệu, mà là palindromic ở cả thập phân và nhị phân.</p>
+<p class="info">(Xin lưu ý rằng số palindromic, ở cả hai cơ sở, có thể không bao gồm các số 0 ở trên).</p>
+
+## [Problem 37](https://projecteuler.net/problem=37):
+  * English:
+
+<p>The number 3797 has an interesting property. Being prime itself, it is possible to continuously remove digits from left to right, and remain prime at each stage: 3797, 797, 97, and 7. Similarly we can work from right to left: 3797, 379, 37, and 3.</p>
+<p>Find the sum of the only eleven primes that are both truncatable from left to right and right to left.</p>
+<p class="info">NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.</p>
+
+  * Vietnamese:
+
+<p>Số 3797 có một phần tử thú vị. Bản thân là số nguyên tố, nó có thể liên tục bỏ đi các chữ số từ trái sang phải, và vẫn là số nguyên tố ở mỗi giai đoạn: 3797, 797, 97, và 7.Tương tự, chúng ta có thể làm như thế từ phải sang trái: 3797, 379, 37, và 3. Số nguyên tố trunaticable là có thể làm như 1 trong 2 trường hợp trên</p>
+<p>Tìm tổng của mười một số nguyên tố trunaticable từ trái sang phải và phải sang trái.</p>
+<p class="info">Chú ý: 2, 3, 5, và 7 không được coi là nguyên tố trunaticable.</p>
+
+
+## [Problem 38](https://projecteuler.net/problem=38):
+  * English:
+
+<p>Take the number 192 and multiply it by each of 1, 2, and 3:</p>
+<blockquote>192 × 1 = 192<br>
+192 × 2 = 384<br>
+192 × 3 = 576</blockquote>
+<p>By concatenating each product we get the 1 to 9 pandigital, 192384576. We will call 192384576 the concatenated product of 192 and (1,2,3)</p>
+<p>The same can be achieved by starting with 9 and multiplying by 1, 2, 3, 4, and 5, giving the pandigital, 918273645, which is the concatenated product of 9 and (1,2,3,4,5).</p>
+<p>What is the largest 1 to 9 pandigital 9-digit number that can be formed as the concatenated product of an integer with (1,2, ... , <var>n</var>) where <var>n</var> &gt; 1?</p>
+
+  * Vietnamese:
+
+<p>Lấy số 192 và nhân nó lần lượt cho 1, 2 và 3:</p>
+<blockquote>192 × 1 = 192<br>
+192 × 2 = 384<br>
+192 × 3 = 576</blockquote>
+<p>Bằng cách nối 3 tích trên, chúng ta thu được một pandigital từ 1 đến 9, chúng ta sẽ gọi 192384576 sản phẩm nối 192 và (1,2,3)</p>
+<p>Điều tương tự có thể đạt được bằng cách bắt đầu bằng 9 và nhân 1, 2, 3, 4, và 5, đưa ra pandigital, 918273645, là sản phẩm nối của 9 và (1,2,3,4,5).</p>
+<p>Hãy tìm số pandigital từ 1 đến 9 lớn nhất mà có thể hình thành như là sản phẩm nối của một số nguyên với (1,2, ... , <var>n</var>) where <var>n</var> &gt; 1?</p>
+
+
+
+

@@ -41,9 +41,10 @@ Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), m�
 ### [Bài 29](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2029%20-%20Project%20Euler.html): Distinct powers	
 ### [Bài 30](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2030%20-%20Project%20Euler.html): Digit fifth powers
 ### [Bài 31](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2031%20-%20Project%20Euler.html): Coin sums
-### [Bài 32](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2032%20-%20Project%20Euler.html):Pandigital products
+### [Bài 32](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2032%20-%20Project%20Euler.html): Pandigital products
 ### [Bài 33](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2033%20-%20Project%20Euler.html):	Digit cancelling fractions
 ### [Bài 34](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2034%20-%20Project%20Euler.html):	Digit factorials
 ### [Bài 35](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2035%20-%20Project%20Euler.html): Circular primes
-
+### [Bài 36](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2036%20-%20Project%20Euler.html): Double-base palindromes
+### [Bài 37](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2037%20-%20Project%20Euler.html): Double-base palindromes
 ### Updating ....
