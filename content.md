@@ -724,3 +724,31 @@ F<sub>12</sub> = 144</blockquote>
 <p>Chúng ta sẽ xem xét các phân số như, <sup>30</sup>/<sub>50</sub> = <sup>3</sup>/<sub>5</sub>, là 1 ví dụ bình thường.</p>
 <p>Có tất cả 4 tất cả 4 ví dụ không bình thường của loại phân số này, và nhỏ hơn 1, và chứa 2 chữ số ở tử và mẫu số.</p>
 <p>Nếu tổng của các phân số ấy được đưa ra theo thuật ngữ phổ biến thấp nhất, hãy tìm gía trị của mẫu số.</p>
+
+## [Problem 34](https://projecteuler.net/problem=34):
+  * English:
+
+<p>145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145.</p>
+<p>Find the sum of all numbers which are equal to the sum of the factorial of their digits.</p>
+<p class="info">Note: as 1! = 1 and 2! = 2 are not sums they are not included.</p>
+
+  * Vietnamese:
+
+<p>145 là một số kì lạ , như 1! + 4! + 5! = 1 + 24 + 120 = 145.</p>
+<p>Tìm tổng của các số có tổng giai thừa của các chữ số bằng chính nó.</p>
+<p class="info">Chú ý: như 1! = 1 and 2! = 2 không phải tổng nên chúng không nằm trong tổng trên.</p>
+
+## [Problem 35](https://projecteuler.net/problem=35):
+  * English:
+
+<p>The number, 197, is called a circular prime because all rotations of the digits: 197, 971, and 719, are themselves prime.</p>
+<p>There are thirteen such primes below 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, and 97.</p>
+<p>How many circular primes are there below one million?</p>
+
+  * Vietnamese:
+
+<p>Số 197 được gọi một số nguyên tố xoay vòng vì tất cả các phép quay của những chữ số: 197, 971, và 719, là các số nguyên tố.</p>
+<p>Đây là mười ba các số nguyên tố như thế dưới 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, và 97.</p>
+<p>Có bao nhiêu số nguyên tố xoay vòng dưới một triệu?</p>
+
+Có bao nhiêu số nguyên tố xoay vòng dưới một triệu
