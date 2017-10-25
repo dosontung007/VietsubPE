@@ -40,7 +40,7 @@ không dưới 300 lần đâu nên đừng sợ sai vì nó là một phần cu
 ### [Bài 28](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2028%20-%20Project%20Euler.html): Number spiral diagonals
 ### [Bài 29](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2029%20-%20Project%20Euler.html): Distinct powers	
 ### [Bài 30](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2030%20-%20Project%20Euler.html): Digit fifth powers
-### [Bài 31](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2031%20-%20Project%20Euler.html):Coin sums
+### [Bài 31](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2031%20-%20Project%20Euler.html): Coin sums
 ### [Bài 32](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2032%20-%20Project%20Euler.html):Pandigital products
 ### [Bài 33](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2033%20-%20Project%20Euler.html):	Digit cancelling fractions
 ### Updating ....
