@@ -1,5 +1,5 @@
 # VietsubPE
-Translate problems on https://projecteuler.net/ to Vietnamese
+Sau khi mình giải xong 50 bài [PE](https://projecteuler.net/), mình có nhớ ra tin nhắn của một người anh trên pymi.slack.com nói rằng anh ý gặp khó khăn trong vấn đề hiểu được đề bài. Do đó, mình đã dịch một số bài trên [PE](https://projecteuler.net/) để giúp các bạn dễ hiểu đề hơn
 
 ## Problem:
 	
@@ -33,3 +33,7 @@ Translate problems on https://projecteuler.net/ to Vietnamese
 ### [Problem 28](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2028%20-%20Project%20Euler.html): Number spiral diagonals
 ### [Problem 29](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2029%20-%20Project%20Euler.html): Distinct powers	
 ### [Problem 30](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2030%20-%20Project%20Euler.html): Digit fifth powers
+### [Problem 31](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2031%20-%20Project%20Euler.html):Coin sums
+### [Problem 32](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2032%20-%20Project%20Euler.html):Pandigital products
+### [Problem 33](http://htmlpreview.github.io/?https://github.com/dosontung007/VietsubPE/blob/master/Problem%2033%20-%20Project%20Euler.html):	Digit cancelling fractions
+### Updating ....

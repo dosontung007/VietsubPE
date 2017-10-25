@@ -667,3 +667,60 @@ F<sub>12</sub> = 144</blockquote>
 <p class="info">As 1 = 1<sup>4</sup> không phải là tổng nên nó không nằm trên những số trên.</p>
 <p>Tổng của các số trên là 1634 + 8208 + 9474 = 19316.</p>
 <p>Hãy tìm tổng của các số có thể viết bằng tổng của bậc 5 của các chữ số của nó.</p>
+
+
+## [Problem 31](https://projecteuler.net/problem=31):
+  * English:
+
+<p>In England the currency is made up of pound, £, and pence, p, and there are eight coins in general circulation:</p>
+<blockquote>1p, 2p, 5p, 10p, 20p, 50p, £1 (100p) and £2 (200p).</blockquote>
+<p>It is possible to make £2 in the following way:</p>
+<blockquote>1×£1 + 1×50p + 2×20p + 1×5p + 1×2p + 3×1p</blockquote>
+<p>How many different ways can £2 be made using any number of coins?</p>
+
+  * Vietnamese:
+
+<p>Ở Anh, tiền tệ được tạo nên bởi pound, £, và pence, p, và có 8 đồng xu được lưu thông chung:</p>
+<blockquote>1p, 2p, 5p, 10p, 20p, 50p, £1 (100p) và £2 (200p).</blockquote>
+<p>Cách khả thi để tạo ra £2 là:</p>
+<blockquote>1×£1 + 1×50p + 2×20p + 1×5p + 1×2p + 3×1p</blockquote>
+<p>Có bao nhiêu cách khác nhau để tạo ra £2 bằng cách sử dụng bất cứ đồng xu nào?</p>
+
+
+## [Problem 32](https://projecteuler.net/problem=32):
+
+  * English:
+
+<p>We shall say that an <var>n</var>-digit number is pandigital if it makes use of all the digits 1 to <var>n</var> exactly once; for example, the 5-digit number, 15234, is 1 through 5 pandigital.</p>
+
+<p>The product 7254 is unusual, as the identity, 39 × 186 = 7254, containing multiplicand, multiplier, and product is 1 through 9 pandigital.</p>
+
+<p>Find the sum of all products whose multiplicand/multiplier/product identity can be written as a 1 through 9 pandigital.</p>
+
+<div class="note">HINT: Some products can be obtained in more than one way so be sure to only include it once in your sum.</div>
+
+
+  * Vietnamese:
+
+<p>Chúng ta thấy rằng một số có <var>n</var> chữ số là 1 số pandigital nếu nó sử dụng tất cả các chữ số từ 1 đến <var>n</var> đúng 1 lần; ví dụ, số có 5 chữ số, 15234, là 1 số pandigital từ 1 đến 5.</p>
+
+<p>Tích 6254 là không bình thường, vì 39 × 186 = 7254, chứa số nhân và số bị nhân và ích là 1 pandigital từ 1 đến 9.</p>
+
+<p>Hãy tìm tổng của các tích mà số nhân/ số bị nhân/ tích có thể viết là 1 chứa số nhân và số bị nhân và tích là 1 pandigital từ 1 đến 9.</p>
+
+<div class="note">Gợi ý: Một số tích có thể xuất hiện nhiều lần vì thế hãy chắc chắn nó chỉ xuất hiện 1 lần trong tổng của bạn</div>
+
+## [Problem 33](https://projecteuler.net/problem=33):
+  * English:
+
+<p>The fraction <sup>49</sup>/<sub>98</sub> is a curious fraction, as an inexperienced mathematician in attempting to simplify it may incorrectly believe that <sup>49</sup>/<sub>98</sub> = <sup>4</sup>/<sub>8</sub>, which is correct, is obtained by cancelling the 9s.</p>
+<p>We shall consider fractions like, <sup>30</sup>/<sub>50</sub> = <sup>3</sup>/<sub>5</sub>, to be trivial examples.</p>
+<p>There are exactly four non-trivial examples of this type of fraction, less than one in value, and containing two digits in the numerator and denominator.</p>
+<p>If the product of these four fractions is given in its lowest common terms, find the value of the denominator.</p>
+
+  * Vietnamese:
+
+<p>Phân số <sup>49</sup>/<sub>98</sub> là 1 phân số kì lạ, nếu là một người kém toán trong nỗ lực đơn giản hóa nó có thể tin rằng<sup>49</sup>/<sub>98</sub> = <sup>4</sup>/<sub>8</sub>, là đúng, thu được bằng cách bỏ những số 9.</p>
+<p>Chúng ta sẽ xem xét các phân số như, <sup>30</sup>/<sub>50</sub> = <sup>3</sup>/<sub>5</sub>, là 1 ví dụ bình thường.</p>
+<p>Có tất cả 4 tất cả 4 ví dụ không bình thường của loại phân số này, và nhỏ hơn 1, và chứa 2 chữ số ở tử và mẫu số.</p>
+<p>Nếu tổng của các phân số ấy được đưa ra theo thuật ngữ phổ biến thấp nhất, hãy tìm gía trị của mẫu số.</p>
