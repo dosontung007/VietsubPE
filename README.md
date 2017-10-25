@@ -1,5 +1,5 @@
 # VietsubPE
-Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), mình có nhớ ra tin nhắn của một người anh trên [PYMI Slack](https://pymi.slack.com/)(link tham gia [invite.pymi.vn](https://pymi-slack.herokuapp.com/) nói rằng anh ý gặp khó khăn trong vấn đề hiểu được đề bài. Do đó, mình đã dịch một số bài trên [Project Euler](https://projecteuler.net/) để giúp các bạn dễ hiểu đề hơn
+Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), mình có nhớ ra tin nhắn của một người anh trên [PYMI Slack](https://pymi.slack.com/)(link tham gia [invite.pymi.vn](https://pymi-slack.herokuapp.com/))nói rằng anh ý gặp khó khăn trong vấn đề hiểu được đề bài. Do đó, mình đã dịch một số bài trên [Project Euler](https://projecteuler.net/) để giúp các bạn dễ hiểu đề hơn
 
 # Giới thiệu về Project Euler:
 - Project Euler là một trang web dành riêng cho những vấn đề về toán học để giải bằng phương pháp lập trình. Dự án này thu hút rất nhiều người bao gồm cả người lớn và học sinh sinh viên quan tâm đến toán học và lập trình máy tính
