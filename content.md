@@ -799,6 +799,10 @@ F<sub>12</sub> = 144</blockquote>
 <p>Điều tương tự có thể đạt được bằng cách bắt đầu bằng 9 và nhân 1, 2, 3, 4, và 5, đưa ra pandigital, 918273645, là sản phẩm nối của 9 và (1,2,3,4,5).</p>
 <p>Hãy tìm số pandigital từ 1 đến 9 lớn nhất mà có thể hình thành như là sản phẩm nối của một số nguyên với (1,2, ... , <var>n</var>) where <var>n</var> &gt; 1?</p>
 
+## [Problem 39](https://projecteuler.net/problem=39):
+  * English:
+  * Vietnamese:
+
 
 
 
