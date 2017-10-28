@@ -47,4 +47,6 @@ Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), m�
 ### [Bài 35](https://dosontung007.github.io/VietsubPE/Problem%2035%20-%20Project%20Euler.html): Circular primes
 ### [Bài 36](https://dosontung007.github.io/VietsubPE/Problem%2036%20-%20Project%20Euler.html): Double-base palindromes
 ### [Bài 37](https://dosontung007.github.io/VietsubPE/Problem%2037%20-%20Project%20Euler.html): Double-base palindromes
+### [Bài 38](https://dosontung007.github.io/VietsubPE/Problem%2038%20-%20Project%20Euler.html): Pandigital multiples
+### [Bài 39](https://dosontung007.github.io/VietsubPE/Problem%2039%20-%20Project%20Euler.html): Integer right triangles
 ### Updating ....
