@@ -1,7 +1,4 @@
 # VietsubPE
-<<<<<<< HEAD
-Translate problems on https://projecteuler.net/ to Vietnamese
-=======
 Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), mình có nhớ ra tin nhắn của một người anh trên [PYMI Slack](https://pymi.slack.com/)(link tham gia [invite.pymi.vn](https://pymi-slack.herokuapp.com/)) nói rằng anh ý gặp khó khăn trong vấn đề hiểu được đề bài. Do đó, mình đã dịch một số bài trên [Project Euler](https://projecteuler.net/) để giúp các bạn dễ hiểu đề hơn
 
 # Giới thiệu về Project Euler:
@@ -53,4 +50,3 @@ Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), m�
 ### [Bài 38](https://dosontung007.github.io/VietsubPE/Problem%2038%20-%20Project%20Euler.html): Pandigital multiples
 ### [Bài 39](https://dosontung007.github.io/VietsubPE/Problem%2039%20-%20Project%20Euler.html): Integer right triangles
 ### Updating ....
->>>>>>> 749b21f99a570b8bff6a0b492ced490613c42735
