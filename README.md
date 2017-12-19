@@ -10,44 +10,44 @@ Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), m�
 <p>không dưới 300 lần đâu nên đừng sợ sai vì nó là một phần cuộc sống, chỉ sợ không rút ra được gì từ cái sai thôi =)))</p>
 
 ## Mục lục:
-### [Bài 1](https://dosontung007.github.io/VietsubPE/problem=1): Multiples of 3 and 5
-### [Bài 2](https://dosontung007.github.io/VietsubPE/problem=2): Even Fibonacci numbers
-### [Bài 3](https://dosontung007.github.io/VietsubPE/problem=3): Largest prime factor
-### [Bài 4](https://dosontung007.github.io/VietsubPE/problem=4): Largest palindrome product
-### [Bài 5](https://dosontung007.github.io/VietsubPE/problem=5): Smallest multiple
-### [Bài 6](https://dosontung007.github.io/VietsubPE/problem=6): Sum square difference
-### [Bài 7](https://dosontung007.github.io/VietsubPE/problem=7): 10001st prime
-### [Bài 8](https://dosontung007.github.io/VietsubPE/problem=8): Largest product in a series
-### [Bài 9](https://dosontung007.github.io/VietsubPE/problem=9): Special Pythagorean triplet
-### [Bài 10](https://dosontung007.github.io/VietsubPE/problem=10): Summation of primes
-### [Bài 11](https://dosontung007.github.io/VietsubPE/problem=11): Largest product in a grid
-### [Bài 12](https://dosontung007.github.io/VietsubPE/problem=12): Highly divisible triangular number
-### [Bài 13](https://dosontung007.github.io/VietsubPE/problem=13): Large sum
-### [Bài 14](https://dosontung007.github.io/VietsubPE/problem=14): Longest Collatz sequence
-### [Bài 15](https://dosontung007.github.io/VietsubPE/problem=15): Lattice paths
-### [Bài 16](https://dosontung007.github.io/VietsubPE/problem=16): Power digit sum
-### [Bài 17](https://dosontung007.github.io/VietsubPE/problem=17): Number letter counts
-### [Bài 18](https://dosontung007.github.io/VietsubPE/problem=18): Maximum path sum I
-### [Bài 19](https://dosontung007.github.io/VietsubPE/problem=19): Counting Sundays
-### [Bài 20](https://dosontung007.github.io/VietsubPE/problem=20): Factorial digit sum
-### [Bài 21](https://dosontung007.github.io/VietsubPE/problem=21): Amicable numbers
-### [Bài 22](https://dosontung007.github.io/VietsubPE/problem=22): Names scores
-### [Bài 23](https://dosontung007.github.io/VietsubPE/problem=23): Non-abundant sums
-### [Bài 24](https://dosontung007.github.io/VietsubPE/problem=24): Lexicographic permutations
-### [Bài 25](https://dosontung007.github.io/VietsubPE/problem=25): 1000-digit Fibonacci number
-### [Bài 26](https://dosontung007.github.io/VietsubPE/problem=26): Reciprocal cycles
-### [Bài 27](https://dosontung007.github.io/VietsubPE/problem=27): Quadratic primes	
-### [Bài 28](https://dosontung007.github.io/VietsubPE/problem=28): Number spiral diagonals
-### [Bài 29](https://dosontung007.github.io/VietsubPE/problem=29): Distinct powers	
-### [Bài 30](https://dosontung007.github.io/VietsubPE/problem=30): Digit fifth powers
-### [Bài 31](https://dosontung007.github.io/VietsubPE/problem=31): Coin sums
-### [Bài 32](https://dosontung007.github.io/VietsubPE/problem=32): Pandigital products
-### [Bài 33](https://dosontung007.github.io/VietsubPE/problem=33):	Digit cancelling fractions
-### [Bài 34](https://dosontung007.github.io/VietsubPE/problem=34):	Digit factorials
-### [Bài 35](https://dosontung007.github.io/VietsubPE/problem=35): Circular primes
-### [Bài 36](https://dosontung007.github.io/VietsubPE/problem=36): Double-base palindromes
-### [Bài 37](https://dosontung007.github.io/VietsubPE/problem=37): Double-base palindromes
-### [Bài 38](https://dosontung007.github.io/VietsubPE/problem=38): Pandigital multiples
-### [Bài 39](https://dosontung007.github.io/VietsubPE/problem=39): Integer right triangles
-### [Bài 40](https://dosontung007.github.io/VietsubPE/problem=40): Champernowne's constanth
+### [Bài 1](https://dosontung007.github.io/VietsubPE/Problem_1.html): Multiples of 3 and 5
+### [Bài 2](https://dosontung007.github.io/VietsubPE/Problem_2.html): Even Fibonacci numbers
+### [Bài 3](https://dosontung007.github.io/VietsubPE/Problem_3.html): Largest prime factor
+### [Bài 4](https://dosontung007.github.io/VietsubPE/Problem_4.html): Largest palindrome product
+### [Bài 5](https://dosontung007.github.io/VietsubPE/Problem_5.html): Smallest multiple
+### [Bài 6](https://dosontung007.github.io/VietsubPE/Problem_6.html): Sum square difference
+### [Bài 7](https://dosontung007.github.io/VietsubPE/Problem_7.html): 10001st prime
+### [Bài 8](https://dosontung007.github.io/VietsubPE/Problem_8.html): Largest product in a series
+### [Bài 9](https://dosontung007.github.io/VietsubPE/Problem_9.html): Special Pythagorean triplet
+### [Bài 10](https://dosontung007.github.io/VietsubPE/Problem_10.html): Summation of primes
+### [Bài 11](https://dosontung007.github.io/VietsubPE/Problem_11.html): Largest product in a grid
+### [Bài 12](https://dosontung007.github.io/VietsubPE/Problem_12.html): Highly divisible triangular number
+### [Bài 13](https://dosontung007.github.io/VietsubPE/Problem_13.html): Large sum
+### [Bài 14](https://dosontung007.github.io/VietsubPE/Problem_14.html): Longest Collatz sequence
+### [Bài 15](https://dosontung007.github.io/VietsubPE/Problem_15.html): Lattice paths
+### [Bài 16](https://dosontung007.github.io/VietsubPE/Problem_16.html): Power digit sum
+### [Bài 17](https://dosontung007.github.io/VietsubPE/Problem_17.html): Number letter counts
+### [Bài 18](https://dosontung007.github.io/VietsubPE/Problem_18.html): Maximum path sum I
+### [Bài 19](https://dosontung007.github.io/VietsubPE/Problem_19.html): Counting Sundays
+### [Bài 20](https://dosontung007.github.io/VietsubPE/Problem_20.html): Factorial digit sum
+### [Bài 21](https://dosontung007.github.io/VietsubPE/Problem_21.html): Amicable numbers
+### [Bài 22](https://dosontung007.github.io/VietsubPE/Problem_22.html): Names scores
+### [Bài 23](https://dosontung007.github.io/VietsubPE/Problem_23.html): Non-abundant sums
+### [Bài 24](https://dosontung007.github.io/VietsubPE/Problem_24.html): Lexicographic permutations
+### [Bài 25](https://dosontung007.github.io/VietsubPE/Problem_25.html): 1000-digit Fibonacci number
+### [Bài 26](https://dosontung007.github.io/VietsubPE/Problem_26.html): Reciprocal cycles
+### [Bài 27](https://dosontung007.github.io/VietsubPE/Problem_27.html): Quadratic primes	
+### [Bài 28](https://dosontung007.github.io/VietsubPE/Problem_28.html): Number spiral diagonals
+### [Bài 29](https://dosontung007.github.io/VietsubPE/Problem_29.html): Distinct powers	
+### [Bài 30](https://dosontung007.github.io/VietsubPE/Problem_30.html): Digit fifth powers
+### [Bài 31](https://dosontung007.github.io/VietsubPE/Problem_31.html): Coin sums
+### [Bài 32](https://dosontung007.github.io/VietsubPE/Problem_32.html): Pandigital products
+### [Bài 33](https://dosontung007.github.io/VietsubPE/Problem_33.html):	Digit cancelling fractions
+### [Bài 34](https://dosontung007.github.io/VietsubPE/Problem_34.html):	Digit factorials
+### [Bài 35](https://dosontung007.github.io/VietsubPE/Problem_35.html): Circular primes
+### [Bài 36](https://dosontung007.github.io/VietsubPE/Problem_36.html): Double-base palindromes
+### [Bài 37](https://dosontung007.github.io/VietsubPE/Problem_37.html): Double-base palindromes
+### [Bài 38](https://dosontung007.github.io/VietsubPE/Problem_38.html): Pandigital multiples
+### [Bài 39](https://dosontung007.github.io/VietsubPE/Problem_39.html): Integer right triangles
+### [Bài 40](https://dosontung007.github.io/VietsubPE/Problem_40.html): Champernowne's constanth
 ### Updating ....
