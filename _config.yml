@@ -5,7 +5,7 @@ url: "https://dosontung007.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Vietsub
+  title: "Vietsub"
   avatar: assets/img/pexels/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
