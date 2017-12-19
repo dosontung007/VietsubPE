@@ -11,9 +11,6 @@ theme_settings:
   gravatar: # Email MD5 hash
   description: "A website with algorithm blog" # used by search engines
 
-  # Header and footer text  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
-
   # Icons
   rss: false
   email_address: dosontung007@gmail.com
