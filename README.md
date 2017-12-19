@@ -1,13 +1,3 @@
----
-layout: post
-title: Việt hóa Project Euler                                # Title of the page
-subtitle: "Việt hóa các bài toán trên PE"                    # A subtitle can be displayed below your title
-feature-img: "assets/img/sample.png"              # Add a feature-image to the post
-thumbnail: "assets/img/thumbnail/sample-th.png"   # Add a thumbnail image on blog view
-tags: [sample, markdown, html]
----
-
-
 # VietsubPE
 Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), mình có nhớ ra tin nhắn của một người anh trên [PYMI Slack](https://pymi.slack.com/)(link tham gia [invite.pymi.vn](https://pymi-slack.herokuapp.com/)) nói rằng anh ý gặp khó khăn trong vấn đề hiểu được đề bài. Do đó, mình đã dịch một số bài trên [Project Euler](https://projecteuler.net/) để giúp các bạn dễ hiểu đề hơn
 
