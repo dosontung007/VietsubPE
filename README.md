@@ -49,5 +49,5 @@ Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), m�
 ### [Bài 37](https://dosontung007.github.io/VietsubPE/problem=37): Double-base palindromes
 ### [Bài 38](https://dosontung007.github.io/VietsubPE/problem=38): Pandigital multiples
 ### [Bài 39](https://dosontung007.github.io/VietsubPE/problem=39): Integer right triangles
-### [Bài 40](https://dosontung007.github.io/VietsubPE/problem=40): Champernowne's constant
+### [Bài 40](https://dosontung007.github.io/VietsubPE/problem=40): Champernowne's constanth
 ### Updating ....
