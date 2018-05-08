@@ -10,6 +10,18 @@ Sau khi mình giải xong 50 bài [Project Euler](https://projecteuler.net/), m�
 <p>không dưới 300 lần đâu nên đừng sợ sai vì nó là một phần cuộc sống, chỉ sợ không rút ra được gì từ cái sai thôi =)))</p>
 
 ## Mục lục:
+<h2 id="mục-lục">Mục lục:</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Solved By</th>
+      </tr>
+    </thead>
+
+  </table>
+
 ### [Bài 1: Multiples of 3 and 5](https://dosontung007.github.io/VietsubPE/Problem%201%20-%20Project%20Euler.html)
 ### [Bài 2: Even Fibonacci numbers](https://dosontung007.github.io/VietsubPE/Problem%202%20-%20Project%20Euler.html)
 ### [Bài 3: Largest prime factor](https://dosontung007.github.io/VietsubPE/Problem%203%20-%20Project%20Euler.html)
