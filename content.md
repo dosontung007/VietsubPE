@@ -219,10 +219,10 @@ What is the value of the first triangle number to have over five hundred divisor
 
 <p>Dãy số tam giác được tạo ra bằng cách thêm vào những số tự nhiên. Do đó số tam giác thứ 7 là  1 + 2 + 3 + 4 + 5 + 6 + 7 = 28. Mười số hạng đầu tiên là:</p>
 <p style="text-align:center;">1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...</p>
-<p>Chúng tôi đã liệt kê những phần tử của bảy số tam giác đầu tiên:</p>
+<p>Chúng tôi đã liệt kê những ước của bảy số tam giác đầu tiên:</p>
 <blockquote style="font-family:'courier new';"><b> 1</b>: 1<br><b> 3</b>: 1,3<br><b> 6</b>: 1,2,3,6<br><b>10</b>: 1,2,5,10<br><b>15</b>: 1,3,5,15<br><b>21</b>: 1,3,7,21<br><b>28</b>: 1,2,4,7,14,28</blockquote>
-<p>Chúng tôi thấy 28 là số tam giác đầu tiên có hơn 5 phần tử.</p>
-<p>Vậy giá trị của số tam giác đầu tiên có trên 500 phần tử là gì?</p>
+<p>Chúng tôi thấy 28 là số tam giác đầu tiên có hơn 5 ước số.</p>
+<p>Vậy giá trị của số tam giác đầu tiên có trên 500 ước là gì?</p>
 
 ## [Problem 13](https://projecteuler.net/problem=13):
 * English:
