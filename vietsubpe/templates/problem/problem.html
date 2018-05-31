@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="Colin Hughes" />
+<meta name="description" content="A website dedicated to the fascinating world of mathematics and programming" />
+<meta name="keywords" content="programming,mathematics,problems,puzzles" />
+<title>Problem {{ problem_obj.id }} - Project Euler</title>
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="stylesheet" type="text/css" href="https://projecteuler.net/themes/20180204/style_default.css" />
+</head>
+<body>
+  <div id="container">
+<div id="header" class="noprint">
+<div id="nav" class="noprint">
+<ul>
+  <li><a href="http://www.vietsubpe.xyz" title="Home" accesskey="h">Home</a></li>
+</ul>
+</div>
+
+<div id="logo" class="noprint">
+   <div>Project Euler<span>.net</span></div>
+</div>
+
+</div>
+<div id="content">
+
+<table id="show_problem_table"  class="noprint">
+<tbody><tr>
+    {% if problem_obj.id != 1 %}
+	<div id="previous_problem"><a href="/problem/{{ previous_problem.id }}" class="info">
+		<span>Go to problem {{ previous_problem.id }}:<br>"{{ previous_problem.title }}"</span><img src="https://projecteuler.net/images/icon_back.png" alt="Previous"></a></div>
+	{% endif %}
+	{% if problem_obj.id < count_obj %}
+	<td><div id="next_problem"><a href="/problem/{{ next_problem.id }}" class="info"><span>Go to problem {{ next_problem.id }}:<br>"{{ next_problem.title }}"</span><img src="https://projecteuler.net/images/icon_next.png" alt="Next"></a></div></td>
+	{% endif %}
+</tr>
+</tbody></table>
+<div style="text-align:center;" class="print"><img data-savepage-src="images/print_page_logo.png" src="data:image/png;resource=6;base64," alt="projecteuler.net" style="border:none;"></div>
+<h2>{{ problem_obj.title }}</h2><div id="problem_info"><h3>Problem {{ problem_obj.id }} <span style="float:right;" class="info noprint"><span style="left:-400px;width:450px;font-size:80%;">Published on Friday, 5th October 2001, 06:00 pm; Solved by 712990;<br>Difficulty rating: 5%</span></span></h3></div>
+	{{ problem_obj.content|safe }}
+	<br>
+<div style="text-align:center;" class="noprint">
+	<form name="form" method="post" action="problem=1">
+	<table width="400" cellpadding="10" align="center">
+	<tbody><tr>
+		<td>
+			<table>
+			<tbody><tr>
+			  <td style="text-align:center;"><button onclick="location.href='https://projecteuler.net/problem={{ id }}'" type="button">Answer</button></td>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+	</form>
+</div>
+<script type="text/javascript"></script>
+</div>
+
+<div id="footer" class="noprint">
+Project Euler: <a href="copyright">Copyright Information</a> | <a href="privacy">Privacy Policy</a>
+</div>
+</div>
+
+
+<div style="position: absolute; width: 0px; height: 0px; overflow: hidden; padding: 0px; border: 0px; margin: 0px;"><div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; padding: 0px; border: 0px; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-family: MathJax_Size1, sans-serif;"></div></div></body></html>
+
+</body>
+</html>

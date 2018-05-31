@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://tung491.github.io/VietsubPE/assets/css/style.css" media="screen" type="text/css">
+    <link rel="stylesheet" href="https://tung491.github.io/VietsubPE/assets/css/print.css" media="print" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+    <title>VietsubPE | Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt</title>
+    <meta property="og:title" content="VietsubPE" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt" />
+    <meta property="og:description" content="Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt" />
+    <meta property="og:site_name" content="VietsubPE" />
+    <script type="application/ld+json">
+    {"name":"VietsubPE","description":"Đề bài giải toán lập trình trên https://projecteuler.net/ bằng tiếng Việt","author":null,"@type":"WebSite","url":"https://dosontung007.github.io/VietsubPE/","image":null,"publisher":null,"headline":"VietsubPE","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+  </head>
+  <body>
+    <header>
+      <div class="inner">
+        <a href="https://vietsubpe.xyz">
+          <h1>VietsubPE</h1>
+        </a>
+        <h2>Đề bài giải toán lập trình trên  https://projecteuler.net/ bằng tiếng Việt</h2>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h1 id="vietsubpe">VietsubPE</h1>
+<p>Sau khi mình giải xong 50 bài <a href="https://projecteuler.net/">Project Euler</a>, mình có nhớ ra tin nhắn của một người anh trên <a href="https://pymi.slack.com/">PYMI Slack</a>(link tham gia <a href="https://pymi-slack.herokuapp.com/">invite.pymi.vn</a>) nói rằng anh ý gặp khó khăn trong vấn đề hiểu được đề bài. Do đó, mình đã dịch một số bài trên <a href="https://projecteuler.net/">Project Euler</a> để giúp các bạn dễ hiểu đề hơn</p>
+
+<h1 id="giới-thiệu-về-project-euler">Giới thiệu về Project Euler:</h1>
+<ul>
+  <li>Project Euler là một trang web dành riêng cho những vấn đề về toán học để giải bằng phương pháp lập trình. Dự án này thu hút rất nhiều người bao gồm cả người lớn và học sinh sinh viên quan tâm đến toán học và lập trình máy tính</li>
+  <li>Tất cả vấn đề trên <a href="https://projecteuler.net/">Project Euler</a> đều được thiết kế theo quy tắc ‘one-minute’ có nghĩa là bạn có thể mất nhiều giờ hay nhiều ngày để tạo ra một thuật toán thành công nhưng việc thu được kết quả trên cả một máy tính yếu trong thời gian sẽ ít hơn một phút nếu thuật toán của bạn đủ tốt. Nếu thời gian thu được kết quả lớn hơn một phút, cũng không sao cả ra kết quả đúng là mừng rồi. Nhưng mình khuyên bạn nên xem lại chương trình để xem lại thuật toán của mình, hay thay đổi cách tiếp cận vấn đề.</li>
+  <li>À hãy nhớ rằng khi bạn giải xong một bài, trang web sẽ mở cho bạn 1 đường link dẫn đến 1 chủ để của vấn đề đó, ở đó những người đã giải bài đã sẽ đưa cách giải của mình nên để thảo luận do đó bạn có thể tham khảo, học hỏi từ đấy. Hoặc bạn có thể vào <a href="https://pymi.slack.com/">PYMI Slack</a> kênh #algorithm, mình và mọi người trong kênh sẽ giải đáp cho bạn(nếu bạn muốn hardcore Python thì vào #pyomg nhé)</li>
+  <li>Điều cuối cùng mình muốn nói là để giải được 50 bài trên <a href="https://projecteuler.net/">Project Euler</a> thì mình đã được trả cái màn hình này
+<img src="https://i.imgur.com/GaAcq4i.png" alt="incorrect scr" /></li>
+</ul>
+<p>không dưới 300 lần đâu nên đừng sợ sai vì nó là một phần cuộc sống, chỉ sợ không rút ra được gì từ cái sai thôi =)))</p>
+
+<h2 id="mục-lục">Mục lục:</h2>
+  <table class="table is-bordered">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Solved By</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for obj in objs %}
+        <tr>
+          <td>{{ obj.id }}</td>
+          <td>
+            <a href="/problem/{{ obj.id }}">{{ obj.title }}</a>
+          </td>
+          <td>{{ obj.solved_by }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+<h3 id="updating-">Updating ….</h3>
+        </section>
+        <aside id="sidebar">
+            <p class="repo-owner"><a href="https://github.com/dosontung007/VietsubPE">VietsubPE</a> is maintained by <a href="https://github.com/dosontung007">dosontung007</a>.</p>
+        </aside>
+      </div>
+    </div>
+
+
+  </body>
+</html>
